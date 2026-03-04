@@ -1,13 +1,7 @@
 ﻿{
-    "version":  "2026.03.04-3",
+    "version":  "2026.03.04-4",
     "baseUrl":  "https://raw.githubusercontent.com/ColdStaff/UnitedRealms-CDN/refs/heads/main/client/",
     "files":  [
-                  {
-                      "path":  ".gitkeep",
-                      "url":  ".gitkeep",
-                      "sha256":  "f01a374e9c81e3db89b3a42940c4d6a5447684986a1296e42bf13f196eed6295",
-                      "size":  5
-                  },
                   {
                       "path":  "emotes/SPEMOTES ALL/SPE_A blow with a heavy sword1.json",
                       "url":  "emotes/SPEMOTES ALL/SPE_A blow with a heavy sword1.json",
